@@ -366,8 +366,8 @@ Aspiring Application Engineer | Digital Banking & Full-Stack Development
 
 - Email: utkp17@gmail.com
 - Location: Mumbai, Maharashtra
-- LinkedIn: [Add your LinkedIn URL]
-- GitHub: [Add your GitHub profile URL]
+- LinkedIn: [UTkp17]
+- GitHub: [utkp17-omegavoid]
 
 ---
 
